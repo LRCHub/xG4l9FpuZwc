@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "つづみぐさ",
+  "base_artist": "いよわ",
+  "createdAt": "2026-01-11T18:32:11.019866Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "つづみぐさ",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_01_つづみぐさ_いよわ.txt"
+    }
+  ]
+}
